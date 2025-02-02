@@ -12,5 +12,5 @@ A simple Spotify clone built using **HTML, CSS, and JavaScript**, utilizing **lo
 ## Installation & Usage 🛠  
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/your-username/spotify-clone.git
+   git clone https:https://github.com/hbardhan/Spotify-Clone
    cd spotify-clone
